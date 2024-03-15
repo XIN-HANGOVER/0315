@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh'
+title = 'Hangover'
+theme = 'ananke'
+publishDir = "docs"
+
